@@ -1359,7 +1359,7 @@ class Redis {
      *
      * @return array  An array of elements, the values of the hash. This works like PHP's array_values()
      */
-    public function hKeys($key) { }
+    public function hVals($key) { }
 
     /**
      * Returns the whole hash, as an array of strings indexed by strings
