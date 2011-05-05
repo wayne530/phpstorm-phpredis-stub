@@ -1,0 +1,2 @@
+Add this stub to your external libraries to give PHP Storm knowledge of the phpredis module. Stub is based off
+documentation provided here: https://github.com/nicolasff/phpredis
