@@ -1413,3 +1413,5 @@ class Redis {
     public function hMget($key, $memberKeys) { }
 
 }
+
+class RedisException extends Exception { }
